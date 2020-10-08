@@ -1,0 +1,5 @@
+java.util.Collection: interface api collection
+
+java.util.List: interface para trabalhar com list
+
+metodo set da interface
